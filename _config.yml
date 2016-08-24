@@ -1,0 +1,14 @@
+layout_spectrum: 0.4410064637195319
+typography_spectrum: 0.2632433131802827
+color:
+  brandStrength: 0.1468766734469682
+  lightness: 0.06360387289896607
+  saturation: 0.7237561619840562
+  rhythmicContrast: 0.3180293436162174
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Skyfilms
